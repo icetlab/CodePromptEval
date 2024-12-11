@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset or the replication package, please cite it as below."
+authors:
+- family-names: "Khojah"
+  given-names: "Ranim"
+  orcid: "https://orcid.org/0000-0002-1090-3153"
+- family-names: "de Oliveira Neto"
+  given-names: "Francisco Gomes"
+  orcid: "https://orcid.org/0000-0001-9226-5417"
+- family-names: "Mohamad"
+  given-names: "Mazen"
+  orcid: "https://orcid.org/0000-0002-3446-1265"
+- family-names: "Leitner"
+  given-names: "Philipp"
+  orcid: "https://orcid.org/0000-0003-2777-528X"
+  
+title: "CodePromptEval"
+version: 1.0.0
+date-released: 2024-12-11
+url: "https://github.com/ranimkhojah/CodePromptEval"
