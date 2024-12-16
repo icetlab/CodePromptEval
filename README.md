@@ -10,7 +10,7 @@ In addition, we provide the replication package of the study _"The Impact of Pro
   author = {Khojah, Ranim and de Oliveira Neto, Francisco Gomes and Mohamad, Mazen and Leitner, Philipp},
   month = dec,
   title = {{CodePromptEval}},
-  url = {https://github.com/ranimkhojah/CodePromptEval},
+  url = {https://github.com/icetlab/CodePromptEval},
   version = {1.0.0},
   year = {2024}
 }
