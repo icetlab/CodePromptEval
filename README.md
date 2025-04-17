@@ -4,15 +4,13 @@ This repository contains a dataset, CodePromptEval, based on the CoderEval Pytho
 
 In addition, we provide the replication package of the study _"The Impact of Prompt Programming on Function-Level Code Generation"_ by Khojah et al. (2024). The replication package contains the original CoderEval, the additional tests and few-shot examples that we added to CoderEval, the scripts that we used to construct and evaluate CodePromptEval on five LLMs (GPT-3.5, GPT-4o, Llama3-70B, Llama2-7B, and Mistral), as well as the LLMs output with the generated functions and the evaluation results.
 
-**To cite this repository:**
+**To cite this work:**
 ```bibtex
-@software{Khojah_CodePromptEval_2024,
-  author = {Khojah, Ranim and de Oliveira Neto, Francisco Gomes and Mohamad, Mazen and Leitner, Philipp},
-  month = dec,
-  title = {{CodePromptEval}},
-  url = {https://github.com/icetlab/CodePromptEval},
-  version = {1.0.0},
-  year = {2024}
+@article{khojah2024impact,
+  title={{The Impact of Prompt Programming on Function-Level Code Generation}},
+  author={Khojah, Ranim and Neto, Francisco Gomes de Oliveira and Mohamad, Mazen and Leitner, Philipp},
+  journal={arXiv preprint arXiv:2412.20545},
+  year={2024}
 }
 ```
 
