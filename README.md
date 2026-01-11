@@ -1,4 +1,7 @@
 ## CodePromptEval: Evaluating the impact of prompt programming on code generation
+[![GitHub](https://img.shields.io/github/license/icetlab/CodePromptEval)](./LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-2412.20545v1-b31b1b.svg)](https://arxiv.org/abs/2412.20545v1)
+
 
 This repository contains a dataset, CodePromptEval, based on the CoderEval Python dataset's functions (Yu et al. (2024)). CodePromptEval consists of 7,072 prompts based on 221 prompts for code-generation tasks, and each prompt implements 32 unique combinations of prompt techniques. The prompt techniques we cover are Few-shot learning, Persona, Chain-of-Thought, Function Signature (context), and List of Packages (context).
 
